@@ -1,0 +1,7 @@
+server:
+  port: 8802    
+appointment:
+  max_days: ${MAX_DAYS:30}
+  
+
+
